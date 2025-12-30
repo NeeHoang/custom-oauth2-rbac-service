@@ -127,7 +127,3 @@ This project is intended as:
 * A showcase of custom OAuth2 + RBAC design
 
 ---
-
-
-thì nói thẳng, tôi viết tiếp cho đúng mục đích.
-```
