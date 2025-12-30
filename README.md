@@ -104,6 +104,11 @@ docker-compose up -d
 mvn clean install
 mvn spring-boot:run
 ```
+### View Database
+
+```
+docker exec -it postgres_auth psql -U auth_LeVietHoang -d auth_db
+```
 
 ---
 
